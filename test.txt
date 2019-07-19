@@ -13,4 +13,4 @@ github
 branch test : creat a new branch 'dev' and then switch to it to do new work ,and then back to 
 origin branch and merge the dev branch to origin branch ,last delete the dev branch
 
-conflict test:
+conflict test: git is simple and convinient 
