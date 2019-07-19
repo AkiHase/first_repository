@@ -15,3 +15,5 @@ origin branch and merge the dev branch to origin branch ,last delete the dev bra
 
 conflict test: git is simple and convinient 
 
+branch merge without Fast Forward 
+
